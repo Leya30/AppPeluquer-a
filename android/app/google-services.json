@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11109032923",
+    "project_id": "app-peluqueria-2ca58",
+    "storage_bucket": "app-peluqueria-2ca58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11109032923:android:651d22465e748ecf87bdfe",
+        "android_client_info": {
+          "package_name": "com.leya0802.leya080203"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11109032923-n0c0vfbb5k07g429h4l52aq1cdk2n8hf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglHxEtouRD410S82NAcq3CdUfHtp1C_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11109032923-n0c0vfbb5k07g429h4l52aq1cdk2n8hf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
